@@ -14,7 +14,7 @@ This tutorial took four hours and we worked in pairs on the subject. Having fini
 
 ## Objectif du TP
 
-L'objectif de ce second TP a été d'aller plsu en profondeur sur les MapReduce, ainsi que sur la manipulation des RDD. Nous avons à nouveau analysé de grande base de textes, en manipulant plus en détail les occurences des mots notamment.
+L'objectif de ce second TP a été d'aller plus en profondeur sur les MapReduce, ainsi que sur la manipulation des RDD. Nous avons à nouveau analysé de grande base de textes, en manipulant plus en détail les occurences des mots notamment.
 
 ## Mise en œuvre
 
